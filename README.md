@@ -1,6 +1,7 @@
 
 # Hi, I'm Emanuel 👋🏾
-![Keep it simple](https://github.com/user-attachments/assets/f7716a9e-b756-461b-8e22-a3587911c3df)
+
+![Keep it simple  (1)](https://github.com/user-attachments/assets/e56844fa-c1c7-4715-a820-2cb375376d02)
 
 I'm a self-taught software developer with a passion for crafting enjoyable and functional web experiences. My background in architecture design has sharpened my attention to detail, problem-solving abilities, and teamwork skills.
 
