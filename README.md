@@ -5,11 +5,11 @@
 I'm a self-taught software developer with a passion for crafting enjoyable and functional web experiences. My background in architecture design has sharpened my attention to detail, problem-solving abilities, and teamwork skills.
 
 # Skills and Experience
--HTML, CSS, JS
--TypeScript
--React
--Next js
--MUI, Tailwind CSS
--SQL, Mongo DB
--Jest, React testing library, Playwright
+- HTML, CSS, JS
+- TypeScript
+- React
+- Next js
+- MUI, Tailwind CSS
+- SQL, Mongo DB
+- Jest, React testing library, Playwright
 
