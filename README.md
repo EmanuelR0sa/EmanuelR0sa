@@ -10,7 +10,9 @@ I'm a self-taught software developer with a passion for crafting enjoyable and f
 - TypeScript
 - React
 - Next js
+- SQL
+- Node js
 - MUI, Tailwind CSS
-- SQL, Mongo DB
+- MySQL, Mongo DB, Supabase
 - Jest, React testing library, Playwright
 
